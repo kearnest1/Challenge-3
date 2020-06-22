@@ -7,6 +7,9 @@ To create a password generator that allows multiple ways to create a password, b
 ## Created With
 HTML, CSS, JS
 
+## Screenshot
+![Screenshot] (Develop/https://kearnest1.github.io/Challenge-3/)
+
 ## Website
 https://kearnest1.github.io/Challenge-3/
 
