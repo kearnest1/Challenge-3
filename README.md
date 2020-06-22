@@ -8,6 +8,7 @@ To create a password generator that allows multiple ways to create a password, b
 HTML, CSS, JS
 
 ## Website
+https://kearnest1.github.io/Challenge-3/
 
 ## Contribution
 Kristin Earnest
